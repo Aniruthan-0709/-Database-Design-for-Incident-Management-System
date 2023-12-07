@@ -13,4 +13,5 @@ This project focuses on the architecture and deployment of a database tailored f
 2. **Conceptual Modeling**: The project commenced with the creation of a conceptual model using Extended Entity-Relationship (EER) and Unified Modeling Language (UML) diagrams. This step laid the groundwork for the database structure.
 3. **Relational Model Translation**: The EER diagram was translated into a relational model, aligning with the requirements of a MySQL relational database.
 4. **SQL Implementation**: The relational model was brought to life using MySQL Workbench, implementing the detailed design into a functional database.
+5. **Python Implementation**: This script establishes a MySQL database connection to retrieve data and generate visual analytics, including a pie chart of ticket resolutions, a bar chart of ticket assignments per employee, a histogram of case status counts, and a scatter plot showing employee performance based on ticket resolution counts
 
