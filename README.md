@@ -5,7 +5,7 @@ This project focuses on the architecture and deployment of a database tailored f
 
 ## Key Features
 - **Integration of ER, EER, and UML Models**: These models were foundational in the database design, ensuring a comprehensive and efficient structure.
-- **MySQL Relational Database with 18 Tables**: The database was implemented in MySQL, featuring 18 interconnected tables to handle diverse data requirements.
+- **MySQL Relational Database with 23 Tables**: The database was implemented in MySQL, featuring 23 interconnected tables to handle diverse data requirements.
 - **Python for Data Visualization and Insights**: Python was utilized to extract insights and create visual representations of the data, enhancing the interpretability of the system’s performance.
 
 ## Development Process
